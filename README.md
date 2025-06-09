@@ -19,7 +19,7 @@ A responsive web application that tests and improves your typing speed and accur
 ## 🛠️ Setup
 
 1. **Clone the repository**:
-   git clone https://github.com/PonmadhanD/One.git
+   git clone https://github.com/PonmadhanD/Typing-Challenge.git
 
 2.Install dependencies:
   npm install
